@@ -7,3 +7,7 @@ $run_dev.*
 ^.here$
 ^LICENSE\.md$
 ^codemeta\.json$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.github$
