@@ -1,5 +1,5 @@
-Package: AAGISuveyApp
-Title: AAGI Survey App
+Package: AAGISurveyApp
+Title: AAGISurvey Shiny App Front End
 Version: 0.0.0.9000
 Authors@R: c(
     person("Adam", "Sparks", , "adam.sparks@curtin.edu.au", role = c("aut", "cre"),
@@ -9,16 +9,20 @@ Authors@R: c(
   )
 Description: A user-friendly interface to generate AAGI S&S feedback
     survey URLs.
-License: GPL (>= 3)
+License: MIT + file LICENSE
 URL: https://aagi-aus.github.io/AAGISurveyApp/,
     https://github.com/AAGI-AUS/AAGISurveyApp/
 BugReports: https://github.com/AAGI-AUS/AAGISurveyApp/Issues
 Imports: 
     AAGISurvey,
+    bslib,
     config,
     golem,
     rlang,
-    shiny
+    shiny,
+    shinyjs
+Suggests:
+  testthat
 Additional_repositories: https://aagi-aus.r-universe.dev
 Config/roxygen2/version: 8.0.0
 Encoding: UTF-8
