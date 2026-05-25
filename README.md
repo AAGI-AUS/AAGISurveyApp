@@ -12,7 +12,7 @@ If you do not have {AAGISurvey} installed, it will be installed when you install
 
 To get started:
 
-### Enable this universe
+### Enable the AAGI R-universe
 
 ```r
 options(
