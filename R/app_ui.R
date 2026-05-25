@@ -25,7 +25,7 @@ app_ui <- function(request) {
         secondary = "#B6D438" # AAGI bright green
       ),
       navbar_options = bslib::navbar_options(
-        bg = "#00843D",
+        bg = "#00808b",
         theme = "dark"
       ),
       # ---- Main tab ----
