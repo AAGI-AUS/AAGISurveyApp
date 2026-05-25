@@ -24,7 +24,7 @@ mod_survey_form_ui <- function(id) {
           " Support type ",
           shiny::tags$span("*", class = "text-danger")
         ),
-        choices = setNames(
+        choices = stats::setNames(
           names(AAGISurvey:::SUPPORT),
           unname(AAGISurvey:::SUPPORT)
         ),
@@ -45,7 +45,10 @@ mod_survey_form_ui <- function(id) {
           ),
           choices = c(
             "-- Select --" = "",
-            setNames(names(AAGISurvey:::DESIGN), unname(AAGISurvey:::DESIGN))
+            stats::setNames(
+              names(AAGISurvey:::DESIGN),
+              unname(AAGISurvey:::DESIGN)
+            )
           ),
           selected = ""
         )
@@ -63,7 +66,7 @@ mod_survey_form_ui <- function(id) {
           ),
           choices = c(
             "-- Select --" = "",
-            setNames(
+            stats::setNames(
               names(AAGISurvey:::ANALYSIS),
               unname(AAGISurvey:::ANALYSIS)
             )
@@ -84,7 +87,7 @@ mod_survey_form_ui <- function(id) {
         ),
         choices = c(
           "-- Select --" = "",
-          setNames(names(AAGISurvey:::NODE), unname(AAGISurvey:::NODE))
+          stats::setNames(names(AAGISurvey:::NODE), unname(AAGISurvey:::NODE))
         ),
         selected = ""
       ),
@@ -99,7 +102,7 @@ mod_survey_form_ui <- function(id) {
         ),
         choices = c(
           "-- Select --" = "",
-          setNames(names(AAGISurvey:::ORG), unname(AAGISurvey:::ORG))
+          stats::setNames(names(AAGISurvey:::ORG), unname(AAGISurvey:::ORG))
         ),
         selected = ""
       ),
