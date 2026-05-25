@@ -14,6 +14,8 @@ A user-friendly interface to generate AAGI S&S feedback survey URLs.
 Useful links:
 \itemize{
   \item \url{https://aagi-aus.github.io/AAGISurveyApp/}
+  \item \url{https://github.com/AAGI-AUS/AAGISurveyApp/}
+  \item Report bugs at \url{https://github.com/AAGI-AUS/AAGISurveyApp/Issues}
 }
 
 }

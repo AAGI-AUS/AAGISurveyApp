@@ -10,6 +10,9 @@ Authors@R: c(
 Description: A user-friendly interface to generate AAGI S&S feedback
     survey URLs.
 License: GPL (>= 3)
+URL: https://aagi-aus.github.io/AAGISurveyApp/,
+    https://github.com/AAGI-AUS/AAGISurveyApp/
+BugReports: https://github.com/AAGI-AUS/AAGISurveyApp/Issues
 Imports: 
     AAGISurvey,
     config,
@@ -20,5 +23,5 @@ Config/roxygen2/version: 8.0.0
 Encoding: UTF-8
 LazyData: true
 X-schema.org-applicationCategory: Tools
-X-schema.org-isPartOf: https://grdc.com.au/research/partnerships-and-initiatives/strategic-partnerships/aagi
-URL: https://aagi-aus.github.io/AAGISurveyApp/
+X-schema.org-isPartOf: 
+    https://grdc.com.au/research/partnerships-and-initiatives/strategic-partnerships/aagi

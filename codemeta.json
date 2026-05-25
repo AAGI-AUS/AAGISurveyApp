@@ -4,7 +4,9 @@
   "identifier": "AAGISuveyApp",
   "description": "A user-friendly interface to generate AAGI S&S feedback survey URLs.",
   "name": "AAGISuveyApp: AAGI Survey App",
-  "codeRepository": "https://github.com/AAGI-AUS/AAGISurveyApp",
+  "relatedLink": "https://aagi-aus.github.io/AAGISurveyApp/",
+  "codeRepository": "https://github.com/AAGI-AUS/AAGISurveyApp/",
+  "issueTracker": "https://github.com/AAGI-AUS/AAGISurveyApp/Issues",
   "license": "https://spdx.org/licenses/GPL-3.0",
   "version": "0.0.0.9000",
   "programmingLanguage": {
@@ -89,7 +91,6 @@
   },
   "applicationCategory": "Tools",
   "isPartOf": "https://grdc.com.au/research/partnerships-and-initiatives/strategic-partnerships/aagi",
-  "fileSize": "39.805KB",
-  "relatedLink": "https://aagi-aus.github.io/AAGISurveyApp/",
+  "fileSize": "40.054KB",
   "readme": "https://github.com/AAGI-AUS/AAGISurveyApp/blob/main/README.md"
 }
