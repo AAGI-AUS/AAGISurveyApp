@@ -10,6 +10,13 @@ A user-friendly interface to generate AAGI S&S feedback survey URLs.
 
 A user-friendly interface to generate AAGI S&S feedback survey URLs.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://aagi-aus.github.io/AAGISurveyApp/}
+}
+
+}
 \author{
 \strong{Maintainer}: Adam Sparks \email{adam.sparks@curtin.edu.au} (\href{https://orcid.org/0000-0002-0061-8359}{ORCID})
 
