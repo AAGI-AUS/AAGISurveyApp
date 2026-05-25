@@ -2,9 +2,9 @@
 % Please edit documentation in R/AAGISurveyApp-package.R,
 %   R/AAGISuveyApp-package.R
 \docType{package}
-\name{AAGISuveyApp-package}
-\alias{AAGISuveyApp-package}
-\title{AAGISuveyApp: AAGI Survey App}
+\name{AAGISurveyApp-package}
+\alias{AAGISurveyApp-package}
+\title{AAGISurveyApp: AAGISurvey Shiny App Front End}
 \description{
 A user-friendly interface to generate AAGI S&S feedback survey URLs.
 
