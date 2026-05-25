@@ -77,6 +77,18 @@
     },
     "4": {
       "@type": "SoftwareApplication",
+      "identifier": "rlang",
+      "name": "rlang",
+      "provider": {
+        "@id": "https://cran.r-project.org",
+        "@type": "Organization",
+        "name": "Comprehensive R Archive Network (CRAN)",
+        "url": "https://cran.r-project.org"
+      },
+      "sameAs": "https://CRAN.R-project.org/package=rlang"
+    },
+    "5": {
+      "@type": "SoftwareApplication",
       "identifier": "shiny",
       "name": "shiny",
       "provider": {
@@ -91,6 +103,6 @@
   },
   "applicationCategory": "Tools",
   "isPartOf": "https://grdc.com.au/research/partnerships-and-initiatives/strategic-partnerships/aagi",
-  "fileSize": "40.054KB",
+  "fileSize": "40.065KB",
   "readme": "https://github.com/AAGI-AUS/AAGISurveyApp/blob/main/README.md"
 }

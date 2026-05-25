@@ -17,6 +17,7 @@ Imports:
     AAGISurvey,
     config,
     golem,
+    rlang,
     shiny
 Additional_repositories: https://aagi-aus.r-universe.dev
 Config/roxygen2/version: 8.0.0
