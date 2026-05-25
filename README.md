@@ -45,4 +45,4 @@ Once complete and you've copied the URL you can click on the "Stop App" button i
 
 ## Example
 
-!["An example image showing the interface with a rendered URL."]("/man/figures/Screenshot.png")
+!["An example image showing the interface with a rendered URL."]("man/figures/Screenshot.png")
