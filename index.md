@@ -51,3 +51,10 @@ A new browser window or tab will open for you to click through and
 create the survey URL. Once complete and you’ve copied the URL you can
 click on the “Stop App” button in the upper right and close the browser
 window.
+
+## Example
+
+![“An example image showing the interface with a rendered
+URL.”](%22/reference/figures/Screenshot.png%22)
+
+“An example image showing the interface with a rendered URL.”
