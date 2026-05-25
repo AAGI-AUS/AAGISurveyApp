@@ -54,10 +54,10 @@ window.
 
 ## Example
 
-![“An example image showing the interface with a rendered
-URL.”](%22man/figures/Screenshot.png%22)
+![An example image showing the interface with a rendered
+URL.](reference/figures/Screenshot.png)
 
-“An example image showing the interface with a rendered URL.”
+An example image showing the interface with a rendered URL.
 
 # Package index
 
