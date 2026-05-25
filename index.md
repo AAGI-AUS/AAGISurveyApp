@@ -55,6 +55,6 @@ window.
 ## Example
 
 ![“An example image showing the interface with a rendered
-URL.”](%22/reference/figures/Screenshot.png%22)
+URL.”](%22man/figures/Screenshot.png%22)
 
 “An example image showing the interface with a rendered URL.”
