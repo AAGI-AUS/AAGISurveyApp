@@ -1,6 +1,6 @@
 Package: AAGISurveyApp
 Title: AAGISurvey Shiny App Front End
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: c(
     person("Adam", "Sparks", , "adam.sparks@curtin.edu.au", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-0061-8359")),
