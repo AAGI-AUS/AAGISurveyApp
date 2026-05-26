@@ -13,7 +13,7 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/AAGI-AUS/AAGISurveyApp/blob/main/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/AAGI-AUS/AAGISurveyApp/blob/v0.0.3/DESCRIPTION)
 
 Sparks A (2026). *AAGISurveyApp: AAGISurvey Shiny App Front End*. R
 package version 0.0.3, <https://aagi-aus.github.io/AAGISurveyApp/>.
