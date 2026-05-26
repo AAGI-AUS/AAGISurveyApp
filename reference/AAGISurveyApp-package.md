@@ -2,8 +2,6 @@
 
 A user-friendly interface to generate AAGI S&S feedback survey URLs.
 
-A user-friendly interface to generate AAGI S&S feedback survey URLs.
-
 ## See also
 
 Useful links:
