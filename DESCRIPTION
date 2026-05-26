@@ -30,3 +30,4 @@ LazyData: true
 X-schema.org-applicationCategory: Tools
 X-schema.org-isPartOf: 
     https://grdc.com.au/research/partnerships-and-initiatives/strategic-partnerships/aagi
+remotes: https://github.com/AAGI-AUS/AAGISurvey
