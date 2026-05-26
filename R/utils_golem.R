@@ -37,19 +37,19 @@ generate_survey_url <- function(
   )
 
   survey_summary <- list(
-    support_type = paste(AAGISurvey::SUPPORT[support_type], collapse = " + "),
+    support_type = paste(AAGISurvey:::SUPPORT[support_type], collapse = " + "),
     design_type = if (!is.null(design_type) && nzchar(design_type)) {
-      AAGISurvey::DESIGN[[design_type]]
+      AAGISurvey:::DESIGN[[design_type]]
     } else {
       "\u2014"
     },
     analysis_type = if (!is.null(analysis_type) && nzchar(analysis_type)) {
-      AAGISurvey::ANALYSIS[[analysis_type]]
+      AAGISurvey:::ANALYSIS[[analysis_type]]
     } else {
       "\u2014"
     },
-    aagi_node = AAGISurvey::NODE[[aagi_node]],
-    organisation_type = AAGISurvey::ORG[[organisation_type]]
+    aagi_node = AAGISurvey:::NODE[[aagi_node]],
+    organisation_type = AAGISurvey:::ORG[[organisation_type]]
   )
   list(url = survey_url, summary = survey_summary)
 }
