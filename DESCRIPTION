@@ -1,6 +1,6 @@
 Package: AAGISurveyApp
 Title: AAGISurvey Shiny App Front End
-Version: 0.0.2
+Version: 0.0.3
 Authors@R: c(
     person("Adam", "Sparks", , "adam.sparks@curtin.edu.au", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-0061-8359")),
@@ -22,7 +22,9 @@ Imports:
     shiny,
     shinyjs
 Suggests:
-  testthat
+    testthat
+Remotes: 
+    https://github.com/AAGI-AUS/AAGISurvey
 Additional_repositories: https://aagi-aus.r-universe.dev
 Config/roxygen2/version: 8.0.0
 Encoding: UTF-8
@@ -30,4 +32,3 @@ LazyData: true
 X-schema.org-applicationCategory: Tools
 X-schema.org-isPartOf: 
     https://grdc.com.au/research/partnerships-and-initiatives/strategic-partnerships/aagi
-remotes: https://github.com/AAGI-AUS/AAGISurvey

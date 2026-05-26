@@ -8,7 +8,7 @@
   "codeRepository": "https://github.com/AAGI-AUS/AAGISurveyApp/",
   "issueTracker": "https://github.com/AAGI-AUS/AAGISurveyApp/Issues",
   "license": "https://spdx.org/licenses/MIT",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "programmingLanguage": {
     "@type": "ComputerLanguage",
     "name": "R",
@@ -63,7 +63,8 @@
     "1": {
       "@type": "SoftwareApplication",
       "identifier": "AAGISurvey",
-      "name": "AAGISurvey"
+      "name": "AAGISurvey",
+      "sameAs": "https://github.com/https://github.com/AAGI-AUS/AAGISurvey"
     },
     "2": {
       "@type": "SoftwareApplication",
@@ -141,7 +142,7 @@
   },
   "applicationCategory": "Tools",
   "isPartOf": "https://grdc.com.au/research/partnerships-and-initiatives/strategic-partnerships/aagi",
-  "fileSize": "403.192KB",
+  "fileSize": "403.199KB",
   "releaseNotes": "https://github.com/AAGI-AUS/AAGISurveyApp/blob/main/NEWS.md",
   "readme": "https://github.com/AAGI-AUS/AAGISurveyApp/blob/main/README.md"
 }
