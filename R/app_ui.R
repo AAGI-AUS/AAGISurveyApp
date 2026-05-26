@@ -10,7 +10,7 @@ app_ui <- function(request) {
     bslib::page_navbar(
       title = shiny::tagList(
         shiny::tags$img(
-          src = "www/aagi_logo.png",
+          src = "www/aagi_logo.svg",
           height = "30px",
           style = "margin-right:8px; vertical-align:middle;",
           alt = "AAGI"
