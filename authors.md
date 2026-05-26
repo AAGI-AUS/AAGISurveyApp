@@ -16,12 +16,12 @@ Source:
 [`DESCRIPTION`](https://github.com/AAGI-AUS/AAGISurveyApp/blob/main/DESCRIPTION)
 
 Sparks A (2026). *AAGISurveyApp: AAGISurvey Shiny App Front End*. R
-package version 0.0.1, <https://aagi-aus.github.io/AAGISurveyApp/>.
+package version 0.0.2, <https://aagi-aus.github.io/AAGISurveyApp/>.
 
     @Manual{,
       title = {AAGISurveyApp: AAGISurvey Shiny App Front End},
       author = {Adam Sparks},
       year = {2026},
-      note = {R package version 0.0.1},
+      note = {R package version 0.0.2},
       url = {https://aagi-aus.github.io/AAGISurveyApp/},
     }
