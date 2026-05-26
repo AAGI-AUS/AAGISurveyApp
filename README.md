@@ -1,5 +1,9 @@
 # AAGISurveyApp
 
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/AAGI-AUS/AAGISurveyApp/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/AAGI-AUS/AAGISurveyApp/actions/workflows/R-CMD-check.yaml)
+<!-- badges: end -->
+
 A [{golem}](https://thinkr-open.github.io/golem/)-based Shiny application that
 wraps the `AAGISurvey` R package, providing a point-and-click interface for
 generating pre-filled AAGI partner feedback survey URLs.
