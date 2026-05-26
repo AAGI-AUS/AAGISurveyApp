@@ -8,11 +8,11 @@ test_that("survey_form module server returns a reactive", {
 
       # Simulate valid S_A inputs and fire generate button
       session$setInputs(
-        support_type      = "S_A",
-        analysis_type     = "A_SP",
-        aagi_node         = "UQ",
+        support_type = "S_A",
+        analysis_type = "A_SP",
+        aagi_node = "UQ",
         organisation_type = "O_AGR",
-        generate          = 1
+        generate = 1
       )
       res <- result()
       expect_type(res, "list")
@@ -28,10 +28,10 @@ test_that("survey_form module shows notification when inputs are incomplete", {
     expr = {
       # Fire generate with no selections
       session$setInputs(
-        support_type      = "",
-        aagi_node         = "",
+        support_type = "",
+        aagi_node = "",
         organisation_type = "",
-        generate          = 1
+        generate = 1
       )
       # result should remain NULL after validation failure
       expect_null(result())
