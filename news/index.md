@@ -2,6 +2,12 @@
 
 ## AAGISurveyApp v0.0.3
 
+### Minor Changes
+
+- Depend on {AAGISurvey} \>= 1.0.1
+
+## AAGISurveyApp v0.0.3
+
 ### Bug Fixes
 
 - Ensure that all constants are imported from {AAGISurvey}

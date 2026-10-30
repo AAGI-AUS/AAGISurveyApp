@@ -13,15 +13,15 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/AAGI-AUS/AAGISurveyApp/blob/v0.0.3/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/AAGI-AUS/AAGISurveyApp/blob/main/DESCRIPTION)
 
 Sparks A (2026). *AAGISurveyApp: AAGISurvey Shiny App Front End*. R
-package version 0.0.3, <https://aagi-aus.github.io/AAGISurveyApp/>.
+package version 0.0.4, <https://aagi-aus.github.io/AAGISurveyApp/>.
 
     @Manual{,
       title = {AAGISurveyApp: AAGISurvey Shiny App Front End},
       author = {Adam Sparks},
       year = {2026},
-      note = {R package version 0.0.3},
+      note = {R package version 0.0.4},
       url = {https://aagi-aus.github.io/AAGISurveyApp/},
     }
