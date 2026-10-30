@@ -8,13 +8,13 @@
   "codeRepository": "https://github.com/AAGI-AUS/AAGISurveyApp/",
   "issueTracker": "https://github.com/AAGI-AUS/AAGISurveyApp/Issues",
   "license": "https://spdx.org/licenses/MIT",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "programmingLanguage": {
     "@type": "ComputerLanguage",
     "name": "R",
     "url": "https://r-project.org"
   },
-  "runtimePlatform": "R version 4.6.0 (2026-04-24)",
+  "runtimePlatform": "R version 4.6.1 (2026-06-24)",
   "author": [
     {
       "@type": "Person",
@@ -64,6 +64,7 @@
       "@type": "SoftwareApplication",
       "identifier": "AAGISurvey",
       "name": "AAGISurvey",
+      "version": ">= 1.0.1",
       "sameAs": "https://github.com/https://github.com/AAGI-AUS/AAGISurvey"
     },
     "2": {
@@ -142,7 +143,7 @@
   },
   "applicationCategory": "Tools",
   "isPartOf": "https://grdc.com.au/research/partnerships-and-initiatives/strategic-partnerships/aagi",
-  "fileSize": "403.295KB",
+  "fileSize": "403.38KB",
   "releaseNotes": "https://github.com/AAGI-AUS/AAGISurveyApp/blob/main/NEWS.md",
   "readme": "https://github.com/AAGI-AUS/AAGISurveyApp/blob/main/README.md",
   "contIntegration": "https://github.com/AAGI-AUS/AAGISurveyApp/actions/workflows/R-CMD-check.yaml"

@@ -1,18 +1,23 @@
+# AAGISurveyApp v0.0.3
+
+## Minor Changes
+
+- Depend on {AAGISurvey} >= 1.0.1
 
 # AAGISurveyApp v0.0.3
 
 ## Bug Fixes
 
-* Ensure that all constants are imported from {AAGISurvey}
+- Ensure that all constants are imported from {AAGISurvey}
 
 # AAGISurveyApp v0.0.2
 
-## Bug Fixes 
+## Bug Fixes
 
-* Fix missing AAGI logo
+- Fix missing AAGI logo
 
 # AAGISurveyApp v0.0.1
 
-## Major Changes 
+## Major Changes
 
-* Initial release
+- Initial release

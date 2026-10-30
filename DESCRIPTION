@@ -1,6 +1,6 @@
 Package: AAGISurveyApp
 Title: AAGISurvey Shiny App Front End
-Version: 0.0.3
+Version: 0.0.4
 Authors@R: c(
     person("Adam", "Sparks", , "adam.sparks@curtin.edu.au", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-0061-8359")),
@@ -14,7 +14,7 @@ URL: https://aagi-aus.github.io/AAGISurveyApp/,
     https://github.com/AAGI-AUS/AAGISurveyApp/
 BugReports: https://github.com/AAGI-AUS/AAGISurveyApp/Issues
 Imports: 
-    AAGISurvey,
+    AAGISurvey (>= 1.0.1),
     bslib,
     config,
     golem,
@@ -26,7 +26,7 @@ Suggests:
 Remotes: 
     https://github.com/AAGI-AUS/AAGISurvey
 Additional_repositories: https://aagi-aus.r-universe.dev
-Config/roxygen2/version: 8.0.0
+Config/roxygen2/version: 8.1.1
 Encoding: UTF-8
 LazyData: true
 X-schema.org-applicationCategory: Tools
